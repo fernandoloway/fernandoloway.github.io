@@ -1,0 +1,24 @@
+
+[class*="col-"]{
+    float: left;
+    padding: 10px
+}
+
+#inputform{
+    background-color:lightblue;
+    padding-bottom: 40px;
+}
+
+.headertable{
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.row h3{
+    padding-left: 5px;
+}
+
